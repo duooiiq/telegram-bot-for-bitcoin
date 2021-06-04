@@ -1,6 +1,6 @@
 # Wiki Telegram Earner Tree
 
-- [Version1 instal(free Version)l](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin/tree/main/v1#install-v1)
+- [Version1 instal(free Version)l](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin/tree/master/v1#install-v1)
 - [What is This ?](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin#what-is-that-)
   - [How To start](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin#how-to-start)
   - [Wallet](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin#wallet)
