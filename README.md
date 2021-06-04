@@ -49,7 +49,7 @@ First Join Channel :
 
 - Earn #Bitcoin
   , #Litecoin, #Dogecoin #BCH #ZEC ~$50 Per Day! New Method - Pdf link : [http://bit.ly/3q1ACec](http://bit.ly/3q1ACec)
-- [New Method](https://github.com/yuceltoluyag/moremethod.md)
+- [New Method](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin/blob/master/moremethod.md)
 
 # Telegram Groups
 
