@@ -38,7 +38,7 @@ First Join Channel :
 - Free until, fulfill the conditions, fill out the form, download the program for free.
 ```
 
-# \* [Go to Raffle](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin/blob/main/raffle.md)
+# \* [Go to Raffle](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin/blob/master/raffle.md)
 
 # Wallet
 
