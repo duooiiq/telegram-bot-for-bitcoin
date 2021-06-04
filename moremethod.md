@@ -1,13 +1,9 @@
 # Wiki Telegram Earner Tree
 
-- [Version1 instal(free Version)l](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin/tree/main/v1#install-v1)
-- [What is This ?](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin#what-is-that-)
-  - [How To start](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin#how-to-start)
-  - [Wallet](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin#wallet)
-  - [Make More Money](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin#wallet)
-  - [Join Chat](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin#telegram-groups)
-  * join our telegram channel for more updates
-- [Versiyon 2(Free Until)](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin#version-2)
+- [How To install](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin/blob/master/moremethod.md#free-btc-auto-method)
+  -- [Join Chat](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin/blob/master/moremethod.md#telegram-groups) ( join our telegram channel for more updates)
+  -- [Wallet](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin/blob/master/moremethod.md#wallet)
+- [Make More Money](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin/blob/master/moremethod.md#other-method)
 
 # Free BTC Auto Method
 
