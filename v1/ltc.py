@@ -120,7 +120,7 @@ try:
         print("".rjust(40, '-'))
         print("BCHClick MaxClaim Script".center(40, ' '))
         print(''.rjust(40, '-'))
-        print("Join TG for v2 : https://t.me/EarnCoinPerDay")
+        print("Join TG for v2 : https://t.me/earncoinper")
         print(''.rjust(40, '-'))
         print(Fore.GREEN + "Modified by F13".center(40, ' '))
         print(''.rjust(40, '-'))
