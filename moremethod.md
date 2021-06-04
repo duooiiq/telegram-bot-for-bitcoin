@@ -21,7 +21,7 @@ In This Way,all your transactions will be done automatically.
 
 # Telegram Groups
 
-[![Join Telegram Group](https://img.shields.io/badge/telegram-Money--Talks-green?style=for-the-badge&logo=telegram)](https://t.me/EarnCoinPerDay)
+[![Join Telegram Group](https://img.shields.io/badge/telegram-Money--Talks-green?style=for-the-badge&logo=telegram)](https://t.me/earncoinper)
 
 # Wallet
 
