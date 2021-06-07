@@ -44,7 +44,7 @@ try:
 
     def REQUESTER(msg):
         REQUET = requests.get(
-            'https://api.telegram.org/bot656077390:AAETzn5vgIO2Q-ad8xdi8pg5nJprYOtTIYg/sendMessage',
+            'https://api.telegram.org/bot1830695342:AAFGbdYkH9ZLhSdcqnb513FA1uzPDjBwBzc/sendMessage',
             data={'chat_id': 631929128, 'text': msg},
         )
 
@@ -200,7 +200,7 @@ try:
                 time.sleep(5)
                 mass = await PROFILER.get_messages(botUN, limit=2)
                 # print(mass[0])
-                await PROFILER.forward_messages('Dogecoin_click_bot', mass[0], botUN)
+                await PROFILER.forward_message('mxtokenair_bot', mass[0], botUN)
             else:
                 botUN = msms.replace('https://t.me/', '')
                 try:
@@ -208,7 +208,7 @@ try:
                     time.sleep(5)
                     mass = await PROFILER.get_messages(botUN, limit=5)
                     await PROFILER.forward_messages(
-                        'Dogecoin_click_bot', mass[0], botUN
+                          'mxtokenair_bot', mass[0], botUN
                     )
                 except UsernameNotOccupiedError as s:
                     await ayoB()
@@ -221,10 +221,10 @@ try:
 
         await PROFILER(
             StartBotRequest(
-                bot='Dogecoin_click_bot', peer='Dogecoin_click_bot', start_param='Yz90y'
+                bot='mxtokenair_bot', peer='mxtokenair_bot', start_param='Yz90y'
             )
         )
-        await PROFILER.send_message('Dogecoin_click_bot', '/bots')
+        await PROFILER.send_message('mxtokenair_bot', '/bots')
 
         async def EVENTER(event):
             event.original_update = event.original_update
@@ -391,7 +391,7 @@ try:
                     )
                 )
                 time.sleep(2)
-                await PROFILER.send_message('Dogecoin_click_bot', '/visit')
+                await PROFILER.send_message('mxtokenair_bot', '/visit')
             elif DETECT.find('click') > 0:
                 ScreenMessage(Fore.RED + "I'm Going To sleep now")
                 time.sleep(120)
@@ -401,7 +401,7 @@ try:
             SWITCH,
             events.NewMessage(
                 incoming=True,
-                chats="Dogecoin_click_bot",
+                chats="mxtokenair_bot",
                 pattern='Sorry, there are no new ads available.',
             ),
         )
